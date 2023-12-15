@@ -1,4 +1,10 @@
+asgiref
+beautifulsoup4
 Django
-django-bootstrap4==23.2
-django-ckeditor==6.7.0
-Pillow==10.1.0
+django-bootstrap4
+django-ckeditor
+django-js-asset
+Pillow
+soupsieve
+sqlparse
+typing_extensions
